@@ -1,2 +1,3 @@
 # Project-1-college
-This is my first project. i made to summit at my college as a practical i thought making a copy my work should be benificiel for me, Thats it.
+This is my first project. I was asked to submit it at my college as a practical, and I thought making a copy of my work would be beneficial for me. That's it.
+Dev = Momin
